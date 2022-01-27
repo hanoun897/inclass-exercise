@@ -4,6 +4,8 @@ public class JavaExercise {
     
     public static void main(String[] args) {
         
+        //Hello, this is a test comment made on GitHub's source code edit page!
+        
         Scanner input = new Scanner(System.in);
         
         System.out.print("Enter school number: (1 = business,"
